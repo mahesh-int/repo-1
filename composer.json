@@ -1,6 +1,6 @@
 {
-    "name": "hardware/theme-frontend-hardware",
-    "description": "Hardware theme by RaveDigital",
+    "name": "test/theme-frontend-repo",
+    "description": "test theme by mesh",
     "type": "magento2-theme",
     "license": [
         "OSL-3.0",

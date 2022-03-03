@@ -6,4 +6,4 @@
 
 use Magento\Framework\Component\ComponentRegistrar;
 
-ComponentRegistrar::register(ComponentRegistrar::THEME, 'frontend/RaveDigital/hardware', __DIR__);
+ComponentRegistrar::register(ComponentRegistrar::THEME, 'frontend/test/repo', __DIR__);
